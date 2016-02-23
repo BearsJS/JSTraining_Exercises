@@ -1,7 +1,6 @@
 'use strict';
 
 import 'babel-polyfill';
-import 'babel-register';
 
 const path = require('path'),
       workshopper = require('workshopper-adventure'),
