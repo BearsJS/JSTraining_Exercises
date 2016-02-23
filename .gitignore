@@ -1,0 +1,18 @@
+# misc / editors
+*~
+*#
+*.iml
+.DS_STORE
+.netbeans
+.idea
+nbproject
+*.swp
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+lib/
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+npm-shrinkwrap.json
+npm-debug.log
